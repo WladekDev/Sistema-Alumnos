@@ -1,0 +1,10 @@
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\bin\Debug\TP Integrador 1.exe.config
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\bin\Debug\TP Integrador 1.exe
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\bin\Debug\TP Integrador 1.pdb
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\obj\Debug\TP Integrador 1.csproj.AssemblyReference.cache
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\obj\Debug\TP_Integrador_1.Properties.Resources.resources
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\obj\Debug\TP Integrador 1.csproj.GenerateResource.cache
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\obj\Debug\TP Integrador 1.csproj.CoreCompileInputs.cache
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\obj\Debug\TP Integrador 1.exe
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\obj\Debug\TP Integrador 1.pdb
+C:\Users\derek\source\repos\TP Integrador 1\TP Integrador 1\obj\Debug\TP_Integrador_1.Form1.resources
