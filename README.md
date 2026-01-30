@@ -22,15 +22,15 @@ Sistema de gestión de alumnos desarrollado en C# con WinForms. Permite:
 5. Explorá las funcionalidades del programa.
 
 ## Capturas de pantalla
-![Pantalla principal con alumnos ingresados](Capturas/captura1.png)
+![Pantalla principal con alumnos ingresados](TP%20Integrador%201/Capturas/captura1.png)
 
 *Pantalla principal con alumnos ingresados*
 
-![Mensaje de registro exitoso](Capturas/captura2.png)
+![Mensaje de registro exitoso](TP%20Integrador%201/Capturas/captura2.png)
 
 *Mensaje de registro exitoso*
 
-![Pantalla principal, datos extra](Capturas/captura3.png)
+![Pantalla principal, datos extra](TP%20Integrador%201/Capturas/captura3.png)
 
 *Datos extra pantalla principal*
 
